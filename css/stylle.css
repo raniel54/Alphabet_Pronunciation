@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+    border: 3px groove red;
+    margin: 50px 50px 150px 50px;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    width: 100%;
+    pronuncia
+}
+
+li {
+
+    width: 100px;
+    height: 100%;
+    margin: 0px;
+    line-height: 160%;
+    list-style-type: none;
+    border: 1px groove black;
+    float: left;
+}
+
+audio{
+    position: sticky;
+    width: 30%;
+
+}
