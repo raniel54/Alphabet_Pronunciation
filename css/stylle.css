@@ -8,8 +8,11 @@ h1{
     text-align: center;
 }
 h3{
+    margin: auto;
     width: 100%;
-    pronuncia
+    text-align: left;
+    text
+
 }
 
 li {
@@ -21,6 +24,7 @@ li {
     list-style-type: none;
     border: 1px groove black;
     float: left;
+    position: static;
 }
 
 audio{
@@ -28,3 +32,4 @@ audio{
     width: 30%;
 
 }
+
